@@ -106,9 +106,9 @@ public class AAS_TEST {
 
 
 
-
+//王子昂到此一游//nihaohhhhh
 //创建client class 模拟对创建AAS的互动
-class Client{
+class Client1{
     public static void main(String[] args) {
         //创造一个客户端的管理器和AAS服务器交互
         ConnectedAssetAdministrationShellManager manager=new ConnectedAssetAdministrationShellManager(new AASRegistryProxy(AAS_TEST.REGISTRYPATH));
